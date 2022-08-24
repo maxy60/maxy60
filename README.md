@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">a student from 42</h3>
 
-- 🔭 I’m currently working on **cpp**
-
 - 🌱 I’m currently learning **c, cpp, reactjs and networks**
 
 - 📫 How to reach me **maximesaintonge60@gmail.com**
