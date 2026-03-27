@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on low-level system security and reverse engineering**
 
-- 🌱 I’m currently learning **c, cpp, reactjs and networks**
+- 🌱 I’m currently learning **c, cpp, reactjs, networks and system security**
 
 - 📫 How to reach me **maximesaintonge60@gmail.com**
 
