@@ -7,12 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/maxime-saintonge" target="_blank">
+  href="https://linkedin.com/in/maxime-saintonge" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
-  </a>
-  <a href="https://discord.gg/#8384" target="_blank">
+ href="https://discord.gg/#8384" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="30" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
