@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">a student from 42</h3>
 
-- 🔭 I’m currently working on low-level system security and reverse engineering
-- 🌱 I’m currently learning **C, C++, React, networks and system security**
 - 📫 How to reach me: **maximesaintonge60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
